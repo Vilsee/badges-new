@@ -1,2 +1,2 @@
 # badges-new
-badges
+badge
